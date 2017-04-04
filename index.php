@@ -7,7 +7,7 @@
         <div class="column medium-8 medium-centered">
             <?php
                 $content = getContent('content');
-                var_dump($content);
+                // Content goes here
             ?>
         </div>
     </article>
